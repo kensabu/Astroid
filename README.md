@@ -23,7 +23,7 @@ Unity Version 2020.3.33f1
 
 .Their is a Spawner script that handles
   . spawn astroid in intervel 
-  . spawn random or sequence powerUPs that in PowerUP scriptable  	object in Asset/ScriptablrObject folder.
+  . spawn random or sequence powerUPs that in PowerUP scriptable object in Asset/ScriptablrObject folder.
   . spawn barrier in intervel
 
 .PowerUP scriptable object contain
@@ -32,9 +32,7 @@ Unity Version 2020.3.33f1
 	.Name: Name of the powerup.
 	.Prefab : Default you can added PowerUps prefab.
 	.Sprite : sprite of the powerUP.
-
 	.MovementSpeed ,MaxLife ,Amout of Bullet, angle of bullet, Delay of bullet: These attributes helps to diffrentiate diffrent powerup weapons
-	
 	.Bullet Sprite:  sprite of the bullet
 	.Bullet timmer:  How much time did the powerUp actived
 
